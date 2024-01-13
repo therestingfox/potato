@@ -130,6 +130,8 @@ author:
       # url: "https://instagram.com/"
 
 # Site Footer
+header:
+  image: "/assets/images/logo.png"
 footer:
   links:
     - label: "Twitter"
